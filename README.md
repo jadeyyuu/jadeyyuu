@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🌞 My name is Jade Zeng, welcome to my personal github page.  
+- 📚 I'm currently taking IT Graduate Prgram in Artificial Intelligence at University of Melbourne.
+- 🎓 I finished my MIS Undergraduate Program at University of Nebraska at Omaha in 2020 December.
+- 🔭 I'm interested in front-end technology 
+- 🌱 I'm currently learning the system architect design partterns and preparing the high level exam.  
+- 🔎 I’m currently looking for job opportunities of Front-end Developer.
+- 📫 How to reach me: (mailto:jadeyyuu@gmail.com)
+
 <!--
 **jadeyyuu/jadeyyuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
