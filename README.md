@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- 🌞 My name is Jade Zeng, welcome to my personal github page.  
-- 📚 I'm currently taking IT Graduate Prgram in Artificial Intelligence at University of Melbourne.
-- 🎓 I finished my MIS Undergraduate Program at University of Nebraska at Omaha in 2020 December.
-- 🔭 I'm interested in front-end technology 
-- 🌱 I'm currently learning the system architect design partterns and preparing the high level exam.  
-- 🔎 I’m currently looking for job opportunities of Front-end Developer.
+- 🌞 Hi, My name is Jade Z, welcome to my personal github page!
+- 🎓 I'm finished IT Graduate Prgram in Artificial Intelligence at University of Melbourne,
+- 🔭 I'm interested in the application of large-scale models in vertical domains,
+- 🌱 I'm currently work in a new energy vehicle company, focusing on research and development of large-scale model applications. 
 - 📫 How to reach me: (mailto:jadeyyuu@gmail.com)
 
 <!--
@@ -20,5 +18,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+📚
 - ⚡ Fun fact: ...
 -->
